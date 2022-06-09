@@ -3,5 +3,8 @@ https://colab.research.google.com/drive/17fOdtWUCsQLfkIjaB56ru3-UewzI6QDf - free
 
 
 
- =====================================================================
+ ==========================================================================================================
+
+
+
 https://discord.gg/DQu2bkpkTF --- discord server
